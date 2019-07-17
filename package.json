@@ -1,5 +1,7 @@
 {
   "scripts":{
+    "dev": "yarn data && npx vuepress dev",
+    "build": "yarn data && npx vuepress build",
     "data":"node convert_excel_json.js"
   },
   "devDependencies": {
