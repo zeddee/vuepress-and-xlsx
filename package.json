@@ -3,7 +3,7 @@
     "data":"node convert_excel_json.js"
   },
   "devDependencies": {
-    "vuepress-cli": "^1.0.0-prealpha.8",
+    "vuepress": "^1.0.0-rc.1",
     "xlsx": "^0.14.3"
   }
 }
