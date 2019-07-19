@@ -11,6 +11,23 @@ Plus any of the modern Office documents affixed with an "x" use the
 [OpenXML](https://github.com/OfficeDev/office-content/tree/master/en-us/OpenXMLCon) format,
 which Microsoft has provided an SDK for, allowing us to work with Office formats programmatically.
 
+## Usage
+
+This repository uses:
+
+- [Vuepress](https://vuepress.vuejs.org/guide/)
+- [js-xlsx](https://github.com/SheetJS/js-xlsx)
+
+To run this sample repository:
+
+1. Clone with `git clone git@github.com:zeddee/vuepress-and-xlsx.git`
+2. Install with `yarn install`
+3. Run with `yarn dev` and access the site on `localhost:8080`
+
+Modify `site/README.md` and `sample.xlsx` to poke around and see how it works.
+
+See 
+
 ## Why an XLSX file
 
 Which brings us here.
