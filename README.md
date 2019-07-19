@@ -26,8 +26,6 @@ To run this sample repository:
 
 Modify `site/README.md` and `sample.xlsx` to poke around and see how it works.
 
-See 
-
 ## Why an XLSX file
 
 Which brings us here.
