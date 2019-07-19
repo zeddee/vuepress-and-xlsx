@@ -28,8 +28,6 @@ Modify `site/README.md` and `sample.xlsx` to poke around and see how it works.
 
 ## Why an XLSX file
 
-Which brings us here.
-
 The `.xlsx` file is essentially a datastore that allows us to read and write data to one or more tables.
 This essentially means that it can be rigged to behave like, say, a MySQL database that backs a Wordpress instance.
 (That is not to say that you _should_.)
